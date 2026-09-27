@@ -2,7 +2,7 @@
 
 🎓 **Final-year Computer Science student** with full-stack development experience across **React, TypeScript, and FastAPI**, gained through a production internship at **SAP Labs Singapore** and multiple end-to-end academic projects integrating **Generative AI**.
 
-I'm comfortable owning features from **database to UI**, with a growing focus on applying **AI/LLM tooling** to full-stack products.
+I'm comfortable owning features from front to back, with a growing focus on applying **AI/LLM tooling** to full-stack products.
 
 ## 🛠️ Technical Skills
 
